@@ -1,0 +1,138 @@
+
+  - description: null
+    label: "Blog Post"
+    name: "blog_post"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: true
+    parent: null
+    fields:
+      - name: "slug"
+        label: "Slug"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+      - name: "title"
+        label: "Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+      - name: "schemamarkup"
+        label: "Schema Markup"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+      - name: "no_index"
+        label: "no-index"
+        description: null
+        datatype: "boolean"
+        sort: 1
+        required: true
+        relationship: null
+      - name: "publishdate"
+        label: "Publish Date"
+        description: null
+        datatype: "datetime"
+        sort: 1
+        required: true
+        relationship: null
+      - name: "header_text"
+        label: "Heading"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+      - name: "list_summary"
+        label: "List Summary"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+      - name: "featured_image"
+        label: "Featured Image"
+        description: null
+        datatype: "images"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          limit: 1
+          list: false
+      - name: "featured_image_alt"
+        label: "Featured Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+      - name: "thumbnail_image"
+        label: "Thumbnail Image"
+        description: null
+        datatype: "images"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          limit: 1
+          list: false
+      - name: "tags"
+        label: "Tags"
+        description: null
+        datatype: "dropdown"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: true
+          options:
+            budgeting: "budgeting"
+             climate change: " climate change"
+            disaster preparedness: "disaster preparedness"
+            flood: "flood"
+            holidays: "holidays"
+            home maintenance: "home maintenance"
+            hurricanes: "hurricanes"
+            insurance tips: "insurance tips"
+            life hacks: "life hacks"
+            mortgages: "mortgages"
+            new home buyer: "new home buyer"
+             news: " news"
+            safety tips: "safety tips"
+            survey: "survey"
+            taxes: "taxes"
+            trends: "trends"
+            wildfires: "wildfires"
+      - name: "social_share"
+        label: "Social Share Links"
+        description: null
+        datatype: "boolean"
+        sort: 1
+        required: true
+        relationship: null
+      - name: "related_posts"
+        label: "Related Posts"
+        description: null
+        datatype: "one_to_many"
+        sort: 1
+        required: false
+        relationship:
+          name: "blog_post"
+          display: "title"
+        settings:
+          list: true
+      - name: "body"
+        label: "Body"
+        description: null
+        datatype: "wysiwyg_basic"
+        sort: 1
+        required: true
+        relationship: null
