@@ -31,10 +31,15 @@
     - name: "no_index"
       label: "no-index"
       description: null
-      datatype: "boolean"
+      datatype: "yes_no"
       sort: 1
       required: true
       relationship: null
+      settings:
+        list: true
+        options:
+          0: "No"
+          1: "Yes"
     - name: "publishdate"
       label: "Publish Date"
       description: null
@@ -113,10 +118,15 @@
     - name: "social_share"
       label: "Social Share Links"
       description: null
-      datatype: "boolean"
+      datatype: "yes_no"
       sort: 1
       required: true
       relationship: null
+      settings:
+        list: true
+        options:
+          0: "No"
+          1: "Yes"
     - name: "related_posts"
       label: "Related Posts"
       description: null
