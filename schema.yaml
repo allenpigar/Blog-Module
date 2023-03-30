@@ -1,11 +1,63 @@
 - description: null
+  label: "Blog"
+  name: "blog"
+  sort: 1
+  listed: true
+  hasRoute: true
+  showAsTable: false
+  parent: null
+  fields:
+    - name: "title"
+      label: "Lead in Title"
+      description: null
+      datatype: "text"
+      sort: 0
+      required: true
+      relationship: null
+      settings:
+        list: false
+    - name: "image"
+      label: "Main Image"
+      description: null
+      datatype: "images"
+      sort: 3
+      required: null
+      relationship: null
+      settings:
+        list: false
+    - name: "section_2_header"
+      label: "Section 2 Header"
+      description: ""
+      datatype: "text"
+      sort: 5
+      required: false
+      relationship: null
+      settings:
+        list: true
+- description: null
+  label: "Tags"
+  name: "tags"
+  sort: 1
+  listed: true
+  hasRoute: false
+  showAsTable: false
+  parent: "blog"
+  fields:
+    - name: "name"
+      label: "Name"
+      description: null
+      datatype: "text"
+      sort: 1
+      required: true
+      relationship: null
+- description: null
   label: "Blog Post"
   name: "blog_post"
   sort: 1
   listed: true
   hasRoute: true
   showAsTable: true
-  parent: null
+  parent: "blog"
   fields:
     - name: "slug"
       label: "Slug"
@@ -91,30 +143,14 @@
     - name: "tags"
       label: "Tags"
       description: null
-      datatype: "dropdown"
+      datatype: "one_to_many"
       sort: 1
-      required: true
-      relationship: null
+      required: false
+      relationship:
+        name: "tags"
+        display: "name"
       settings:
         list: true
-        options:
-          budgeting: "budgeting"
-          climate change: " climate change"
-          disaster preparedness: "disaster preparedness"
-          flood: "flood"
-          holidays: "holidays"
-          home maintenance: "home maintenance"
-          hurricanes: "hurricanes"
-          insurance tips: "insurance tips"
-          life hacks: "life hacks"
-          mortgages: "mortgages"
-          new home buyer: "new home buyer"
-          news: " news"
-          safety tips: "safety tips"
-          survey: "survey"
-          taxes: "taxes"
-          trends: "trends"
-          wildfires: "wildfires"
     - name: "social_share"
       label: "Social Share Links"
       description: null
