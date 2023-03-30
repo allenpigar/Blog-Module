@@ -8,6 +8,31 @@
   parent: null
   fields:
     - name: "title"
+      label: "Title"
+      description: null
+      datatype: "text"
+      sort: 0
+      required: true
+      relationship: null
+      settings:
+        list: false
+    - name: "date"
+      label: "Date"
+      description: null
+      datatype: "datetime"
+      sort: 0
+      required: true
+      relationship: null
+    - name: "aliases"
+      label: "Aliases"
+      description: null
+      datatype: "text"
+      sort: 0
+      required: true
+      relationship: null
+      settings:
+        list: false
+    - name: "header-text"
       label: "Header Text"
       description: null
       datatype: "text"
