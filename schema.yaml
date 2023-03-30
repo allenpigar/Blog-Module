@@ -8,7 +8,7 @@
   parent: null
   fields:
     - name: "title"
-      label: "Lead in Title"
+      label: "Header Text"
       description: null
       datatype: "text"
       sort: 0
@@ -16,24 +16,6 @@
       relationship: null
       settings:
         list: false
-    - name: "image"
-      label: "Main Image"
-      description: null
-      datatype: "images"
-      sort: 3
-      required: null
-      relationship: null
-      settings:
-        list: false
-    - name: "section_2_header"
-      label: "Section 2 Header"
-      description: ""
-      datatype: "text"
-      sort: 5
-      required: false
-      relationship: null
-      settings:
-        list: true
 - description: null
   label: "Tags"
   name: "tags"

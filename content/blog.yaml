@@ -1,1 +1,18 @@
-[]
+- id: "0501-31cc-175e"
+  web:
+    metaDescription: ""
+    metaTitle: "Blog"
+    metaLinkText: "Blog"
+    metaKeywords: null
+    pathPart: "blog"
+    path: "/blog/"
+    sitemapPriority: -1
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+    parent: "/"
+  meta:
+    sort: 113
+    listed: true
+  data:
+    title: "Blogs"
