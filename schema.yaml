@@ -32,7 +32,7 @@
       relationship: null
       settings:
         list: false
-    - name: "header-text"
+    - name: "header_text"
       label: "Header Text"
       description: null
       datatype: "text"

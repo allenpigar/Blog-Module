@@ -16,6 +16,6 @@
     listed: true
   data:
     title: "Home Insurance Demystified | Blog "
-    date : "2021-01-07T04:19:28.000-05:00"
-    aliases : "/blog/",
-    header-text : "Blog"
+    date: "2021-01-07T04:19:28.000-05:00"
+    aliases: "/blog/"
+    header_text: "Blog"
