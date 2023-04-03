@@ -1,306 +1,307 @@
-- id: "budgeting"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: "budgeting"
-- id: " climate change"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: " climate change"
-- id: "disaster preparedness"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: "disaster preparedness"
-- id: "flood"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: "flood"
-- id: "holidays"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: "holidays"
-- id: "home maintenance"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: "home maintenance"
-- id: "hurricanes"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: "hurricanes"
-- id: "insurance tips"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: "insurance tips"
-- id: "life hacks"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: "life hacks"
-- id: "mortgages"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: "mortgages"
-- id: "new home buyer"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: "new home buyer"
-- id: " news"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: " news"
-- id: "safety tips"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: "safety tips"
-- id: "survey"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: "survey"
-- id: "taxes"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: "taxes"
-- id: "trends"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: "trends"
-- id: "wildfires"
-  web:
-    metaDescription: ""
-    metaTitle: ""
-    metaLinkText: ""
-    metaKeywords: null
-    pathPart: null
-    path: null
-    sitemapPriority: -2
-    canonicalTagMode: 1
-    canonicalQueryParamWhitelist: null
-    canonicalTagCustomValue: null
-    parent: "/"
-  meta:
-    sort: null
-    listed: true
-  data:
-    name: "wildfires"
+
+  - id: "budgeting"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: "budgeting"
+  - id: " climate change"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: " climate change"
+  - id: "disaster preparedness"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: "disaster preparedness"
+  - id: "flood"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: "flood"
+  - id: "holidays"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: "holidays"
+  - id: "home maintenance"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: "home maintenance"
+  - id: "hurricanes"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: "hurricanes"
+  - id: "insurance tips"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: "insurance tips"
+  - id: "life hacks"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: "life hacks"
+  - id: "mortgages"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: "mortgages"
+  - id: "new home buyer"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: "new home buyer"
+  - id: " news"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: " news"
+  - id: "safety tips"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: "safety tips"
+  - id: "survey"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: "survey"
+  - id: "taxes"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: "taxes"
+  - id: "trends"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: "trends"
+  - id: "wildfires"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      name: "wildfires"
