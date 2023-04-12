@@ -48,20 +48,6 @@
   showAsTable: true
   parent: "blog"
   fields:
-    - name: "slug"
-      label: "Slug"
-      description: null
-      datatype: "text"
-      sort: 1
-      required: true
-      relationship: null
-    - name: "title"
-      label: "Title"
-      description: null
-      datatype: "text"
-      sort: 1
-      required: true
-      relationship: null
     - name: "schemamarkup"
       label: "Schema Markup"
       description: null
@@ -69,18 +55,6 @@
       sort: 1
       required: true
       relationship: null
-    - name: "no_index"
-      label: "no-index"
-      description: null
-      datatype: "yes_no"
-      sort: 1
-      required: true
-      relationship: null
-      settings:
-        list: true
-        options:
-          0: "No"
-          1: "Yes"
     - name: "publishdate"
       label: "Publish Date"
       description: null
@@ -119,16 +93,6 @@
       sort: 1
       required: true
       relationship: null
-    - name: "thumbnail_image"
-      label: "Thumbnail Image"
-      description: null
-      datatype: "images"
-      sort: 1
-      required: null
-      relationship: null
-      settings:
-        limit: 1
-        list: false
     - name: "tags"
       label: "Tags"
       description: null
