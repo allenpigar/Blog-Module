@@ -1,7 +1,7 @@
 - id: "0501-31cc-175e"
   web:
     metaDescription: "Welcome to the Kin Blog, the resource that makes life as a homeowner easier! Get the latest stories on insurance, homeownership, risk management, & more."
-    metaTitle: "Blog"
+    metaTitle: "Home Insurance Demystified | Blog "
     metaLinkText: "Blog"
     metaKeywords: null
     pathPart: "blog"
@@ -15,7 +15,5 @@
     sort: 113
     listed: true
   data:
-    title: "Home Insurance Demystified | Blog "
     date: "2021-01-07T04:19:28.000-05:00"
-    aliases: "/blog/"
     header_text: "Blog"
