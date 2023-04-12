@@ -124,7 +124,7 @@
       required: false
       relationship:
         name: "blog_post"
-        display: "title"
+        display: "header_text"
       settings:
         list: true
     - name: "body"
