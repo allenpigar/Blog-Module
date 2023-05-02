@@ -51,7 +51,7 @@
     - name: "schemamarkup"
       label: "Schema Markup"
       description: null
-      datatype: "textarea"
+      datatype: "wysiwyg_basic"
       sort: 1
       required: true
       relationship: null
@@ -72,7 +72,7 @@
     - name: "list_summary"
       label: "List Summary"
       description: null
-      datatype: "textarea"
+      datatype: "wysiwyg_basic"
       sort: 1
       required: true
       relationship: null
@@ -116,17 +116,27 @@
         options:
           0: "No"
           1: "Yes"
-    - name: "related_posts"
-      label: "Related Posts"
+    - name: "related_posts_1"
+      label: "Related Posts 1"
       description: null
-      datatype: "one_to_many"
+      datatype: "internal_link"
       sort: 1
-      required: false
-      relationship:
-        name: "blog_post"
-        display: "header_text"
-      settings:
-        list: true
+      required: true
+      relationship: null
+    - name: "related_posts_2"
+      label: "Related Posts 2"
+      description: null
+      datatype: "internal_link"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "related_posts_3"
+      label: "Related Posts 3"
+      description: null
+      datatype: "internal_link"
+      sort: 1
+      required: true
+      relationship: null
     - name: "body"
       label: "Body"
       description: null
