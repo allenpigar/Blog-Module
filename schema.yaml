@@ -89,7 +89,7 @@
     - name: "featured_image_alt"
       label: "Featured Image Alt Text"
       description: null
-      datatype: "text"
+      datatype: "textarea"
       sort: 1
       required: true
       relationship: null
