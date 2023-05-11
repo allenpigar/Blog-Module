@@ -51,7 +51,7 @@
     - name: "schemamarkup"
       label: "Schema Markup"
       description: null
-      datatype: "wysiwyg_basic"
+      datatype: "textarea"
       sort: 1
       required: true
       relationship: null
