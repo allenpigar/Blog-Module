@@ -65,7 +65,7 @@
     - name: "header_text"
       label: "Heading"
       description: null
-      datatype: "text"
+      datatype: "textarea"
       sort: 1
       required: true
       relationship: null
