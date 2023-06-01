@@ -28,8 +28,8 @@
   name: "tags"
   sort: 1
   listed: true
-  hasRoute: false
-  showAsTable: false
+  hasRoute: true
+  showAsTable: true
   parent: "blog"
   fields:
     - name: "name"
